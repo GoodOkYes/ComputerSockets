@@ -1,0 +1,15 @@
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\bin\Debug\SocketClient-Server.exe.config
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\bin\Debug\SocketClient-Server.exe
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\bin\Debug\SocketClient-Server.pdb
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\SocketClient-Server.csprojAssemblyReference.cache
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\MainWindow.g.cs
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\App.g.cs
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\SocketClient-Server_MarkupCompile.cache
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\SocketClient-Server_MarkupCompile.lref
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\MainWindow.baml
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\SocketClient-Server.g.resources
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\SocketClient_Server.Properties.Resources.resources
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\SocketClient-Server.csproj.GenerateResource.cache
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\SocketClient-Server.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\SocketClient-Server.exe
+C:\Users\New\source\repos\SocketClient-Server\SocketClient-Server\obj\Debug\SocketClient-Server.pdb
